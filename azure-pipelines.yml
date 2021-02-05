@@ -5,7 +5,7 @@
 # insert a dummy commit
 
 trigger:
-- main
+- main # dummy comment
 
 pool:
   vmImage: 'windows-latest'
